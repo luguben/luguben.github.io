@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Lugu, PhD"
 description: |
-  Teaching Assistant Professor<br>
+  Adjunct Professor<br>
   College of Education and Health Professions<br>
   Department of Educational Statistics and Research Methods
 toc: false
