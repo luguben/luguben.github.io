@@ -1,13 +1,7 @@
 [
   {
     "listing": "/index.html",
-    "items": [
-      "/posts/cdm-for-disengaged-behavior.html",
-      "/posts/mokken-rasch-measurement-quality-subgroups.html",
-      "/posts/nonparametric-parametric-irt-data-quality.html",
-      "/posts/bayesian-fit-indices-misspecification.html",
-      "/posts/msa-survey-response-quality.html"
-    ]
+    "items": []
   },
   {
     "listing": "/reading-hub.html",
