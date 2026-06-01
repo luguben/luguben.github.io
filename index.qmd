@@ -14,11 +14,11 @@ about:
   id: hero-heading
   links:
     - icon: envelope-at
-      href: mailto:blugu@uark.edu
+      href: mailto:benjamin.lugu@aims.ac.rw
       target: _blank
       
     - icon: download
-      href: https://uark.box.com/s/ztdhvkdhu170vm86sem5ji9rj7zpbtov
+      href: https://docs.google.com/document/d/1zGiU9j1bewlTynztQtJd2muIJXq6fyST/edit?usp=sharing&ouid=106160192740191963203&rtpof=true&sd=true
       target: _blank
             
     - text: "{{< ai google-scholar>}}"
@@ -54,17 +54,19 @@ listing:
 
 :::{#hero-heading}
 
-I am a Teaching Assistant Professor of Educational Statistics and Research Methods at the University of Arkansas. My teaching and research focus on quantitative methods, data analytics, and applied statistical modeling in education and health contexts. I am passionate about helping graduate students develop strong analytical reasoning skills using R, SPSS, and SAS. My work integrates traditional research design with modern data science approaches to support evidence-based decision-making in education and healthcare.
+I am an Adjunct Professor of Educational Statistics and Research Methods at the University of Arkansas. My teaching and research focus on quantitative methods, data analytics, and applied statistical modeling in education and health contexts. I am passionate about helping graduate students develop strong analytical reasoning skills using R, SPSS, and SAS. My work integrates traditional research design with modern data science approaches to support evidence-based decision-making in education and healthcare.
 
 
 ## Research Interests
 
-- Quantitative Methods
-- Research Design
+- Diagnostic Classification Modeling
+- Item Response Theory (IRT)
+- Non-parametric IRT
 - Educational Statistics and Measurement  
 - Applied Structural Equation Modeling
-- Diagnostic Classification Modeling
-- Healthcare Data Analytics
+- Regression based Quantitative Methods
+- Research Design
+
 
 :::
 

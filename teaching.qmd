@@ -24,7 +24,7 @@ toc: false
 ::: {.g-col-12 .g-col-md-10}
 
 ::: {.termline}
-<span class="offering"><span class="term">Spring 2026</span> <span class="modality-pill hybrid">Hybrid</span></span>
+<span class="offering"><span class="term">Spring 2026</span> <span class="modality-pill hybrid">Hybrid</span></span> 
 :::
 
 An applied introduction to quantitative reasoning for educators and researchers in adult and continuing education. The course emphasizes understanding and using the hypothetico-deductive research process; describing and summarizing data using appropriate statistical terminology; constructing and interpreting basic statistical models; and presenting results in clear, meaningful ways. Students gain practical experience using SPSS to manage data, conduct statistical analyses, and interpret findings based on real problems encountered in adult education practice and research.
@@ -47,7 +47,7 @@ An applied introduction to quantitative reasoning for educators and researchers 
 ::: {.g-col-12 .g-col-md-10}
 
 ::: {.termline}
-<span class="offering"><span class="term">Spring 2026</span> <span class="modality-pill online">Online</span></span>
+<span class="offering"><span class="term">Spring 2026</span> <span class="modality-pill online">Online</span></span> <span class="offering"><span class="term">Summer 2026</span> <span class="modality-pill online">Online</span></span>
 :::
 
 A foundational course that introduces students to the nature of research problems in education and the systematic processes used to investigate them. The course examines major research designs, strategies for formulating researchable questions, methods for data collection, approaches to evaluating evidence, and principles of interpreting and reporting findings. Emphasis is placed on understanding how educational research is conceptualized, how studies are critically analyzed, and how research informs practice and policy across educational settings.
@@ -72,7 +72,7 @@ A foundational course that introduces students to the nature of research problem
 ::: {.g-col-12 .g-col-md-10}
 
 ::: {.termline}
-<span class="offering"><span class="term">Fall 2025</span> <span class="modality-pill inperson">In-Person</span></span>
+<span class="offering"><span class="term">Fall 2025</span> <span class="modality-pill inperson">In-Person</span></span> <span class="offering"><span class="term">Summer 2026</span> <span class="modality-pill inperson">Online</span></span>
 :::
 
 A comprehensive introduction to fundamental statistical concepts and data-analytic techniques commonly used in education and the social sciences. Topics include frequency distributions, graphical data representation, measures of central tendency and variability, simple regression and correlation, chi-square procedures, sampling methods, parameter estimation, and foundations of hypothesis testing. Emphasis is placed on applying these methods to real educational datasets and interpreting results in meaningful, practice-oriented ways. Students gain hands-on experience using R and the R Commander interface for data organization, cleaning, reduction, visualization, and statistical analysis. *Required of doctoral candidates.*
